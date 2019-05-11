@@ -1,0 +1,16 @@
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №5\ex5.15\ex5.15\bin\Debug\ex5.15.exe
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №5\ex5.15\ex5.15\bin\Debug\ex5.15.pdb
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №5\ex5.15\ex5.15\obj\Debug\ex5.15.csprojResolveAssemblyReference.cache
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №5\ex5.15\ex5.15\obj\Debug\ex5._15.Form1.resources
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №5\ex5.15\ex5.15\obj\Debug\ex5._15.Properties.Resources.resources
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №5\ex5.15\ex5.15\obj\Debug\ex5.15.csproj.GenerateResource.Cache
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №5\ex5.15\ex5.15\obj\Debug\ex5.15.exe
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №5\ex5.15\ex5.15\obj\Debug\ex5.15.pdb
+C:\Users\Fence_2\Desktop\Лаб. работа №5\ex5.15\ex5.15\obj\Debug\ex5.15.exe
+C:\Users\Fence_2\Desktop\Лаб. работа №5\ex5.15\ex5.15\obj\Debug\ex5.15.pdb
+C:\Users\Fence_2\Desktop\Лаб. работа №5\ex5.15\ex5.15\bin\Debug\ex5.15.exe
+C:\Users\Fence_2\Desktop\Лаб. работа №5\ex5.15\ex5.15\bin\Debug\ex5.15.pdb
+C:\Users\Fence_2\Desktop\Лаб. работа №5\ex5.15\ex5.15\obj\Debug\ex5.15.csprojResolveAssemblyReference.cache
+C:\Users\Fence_2\Desktop\Лаб. работа №5\ex5.15\ex5.15\obj\Debug\ex5._15.Form1.resources
+C:\Users\Fence_2\Desktop\Лаб. работа №5\ex5.15\ex5.15\obj\Debug\ex5._15.Properties.Resources.resources
+C:\Users\Fence_2\Desktop\Лаб. работа №5\ex5.15\ex5.15\obj\Debug\ex5.15.csproj.GenerateResource.Cache

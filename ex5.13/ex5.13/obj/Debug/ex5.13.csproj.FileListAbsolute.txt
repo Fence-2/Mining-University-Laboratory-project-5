@@ -1,0 +1,16 @@
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №5\ex5.13\ex5.13\bin\Debug\ex5.13.exe
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №5\ex5.13\ex5.13\bin\Debug\ex5.13.pdb
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №5\ex5.13\ex5.13\obj\Debug\ex5._13.Form1.resources
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №5\ex5.13\ex5.13\obj\Debug\ex5._13.Properties.Resources.resources
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №5\ex5.13\ex5.13\obj\Debug\ex5.13.csproj.GenerateResource.Cache
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №5\ex5.13\ex5.13\obj\Debug\ex5.13.exe
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №5\ex5.13\ex5.13\obj\Debug\ex5.13.pdb
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №5\ex5.13\ex5.13\obj\Debug\ex5.13.csprojResolveAssemblyReference.cache
+C:\Users\Fence_2\Desktop\Лаб. работа №5\ex5.13\ex5.13\obj\Debug\ex5.13.exe
+C:\Users\Fence_2\Desktop\Лаб. работа №5\ex5.13\ex5.13\obj\Debug\ex5.13.pdb
+C:\Users\Fence_2\Desktop\Лаб. работа №5\ex5.13\ex5.13\bin\Debug\ex5.13.exe
+C:\Users\Fence_2\Desktop\Лаб. работа №5\ex5.13\ex5.13\bin\Debug\ex5.13.pdb
+C:\Users\Fence_2\Desktop\Лаб. работа №5\ex5.13\ex5.13\obj\Debug\ex5.13.csprojResolveAssemblyReference.cache
+C:\Users\Fence_2\Desktop\Лаб. работа №5\ex5.13\ex5.13\obj\Debug\ex5._13.Form1.resources
+C:\Users\Fence_2\Desktop\Лаб. работа №5\ex5.13\ex5.13\obj\Debug\ex5._13.Properties.Resources.resources
+C:\Users\Fence_2\Desktop\Лаб. работа №5\ex5.13\ex5.13\obj\Debug\ex5.13.csproj.GenerateResource.Cache

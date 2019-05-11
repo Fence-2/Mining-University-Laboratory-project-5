@@ -1,0 +1,18 @@
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Perfect\ex5.8\ex5.8\bin\Debug\ex5.8.exe.config
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Perfect\ex5.8\ex5.8\bin\Debug\ex5.8.exe
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Perfect\ex5.8\ex5.8\bin\Debug\ex5.8.pdb
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Perfect\ex5.8\ex5.8\obj\Debug\ex5.8.csprojResolveAssemblyReference.cache
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Perfect\ex5.8\ex5.8\obj\Debug\ex5._8.Form1.resources
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Perfect\ex5.8\ex5.8\obj\Debug\ex5._8.Properties.Resources.resources
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Perfect\ex5.8\ex5.8\obj\Debug\ex5.8.csproj.GenerateResource.Cache
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Perfect\ex5.8\ex5.8\obj\Debug\ex5.8.exe
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Perfect\ex5.8\ex5.8\obj\Debug\ex5.8.pdb
+C:\Users\Fence_2\Desktop\Лаб. работа №5\ex5.8\ex5.8\bin\Debug\ex5.8.exe.config
+C:\Users\Fence_2\Desktop\Лаб. работа №5\ex5.8\ex5.8\obj\Debug\ex5.8.exe
+C:\Users\Fence_2\Desktop\Лаб. работа №5\ex5.8\ex5.8\obj\Debug\ex5.8.pdb
+C:\Users\Fence_2\Desktop\Лаб. работа №5\ex5.8\ex5.8\bin\Debug\ex5.8.exe
+C:\Users\Fence_2\Desktop\Лаб. работа №5\ex5.8\ex5.8\bin\Debug\ex5.8.pdb
+C:\Users\Fence_2\Desktop\Лаб. работа №5\ex5.8\ex5.8\obj\Debug\ex5.8.csprojResolveAssemblyReference.cache
+C:\Users\Fence_2\Desktop\Лаб. работа №5\ex5.8\ex5.8\obj\Debug\ex5._8.Form1.resources
+C:\Users\Fence_2\Desktop\Лаб. работа №5\ex5.8\ex5.8\obj\Debug\ex5._8.Properties.Resources.resources
+C:\Users\Fence_2\Desktop\Лаб. работа №5\ex5.8\ex5.8\obj\Debug\ex5.8.csproj.GenerateResource.Cache

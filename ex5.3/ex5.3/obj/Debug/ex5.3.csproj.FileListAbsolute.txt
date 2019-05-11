@@ -1,0 +1,16 @@
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Perfect\ex5.3\ex5.3\bin\Debug\ex5.3.exe.config
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Perfect\ex5.3\ex5.3\bin\Debug\ex5.3.exe
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Perfect\ex5.3\ex5.3\bin\Debug\ex5.3.pdb
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Perfect\ex5.3\ex5.3\obj\Debug\ex5._3.Form1.resources
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Perfect\ex5.3\ex5.3\obj\Debug\ex5._3.Properties.Resources.resources
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Perfect\ex5.3\ex5.3\obj\Debug\ex5.3.csproj.GenerateResource.Cache
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Perfect\ex5.3\ex5.3\obj\Debug\ex5.3.exe
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Perfect\ex5.3\ex5.3\obj\Debug\ex5.3.pdb
+C:\Users\Fence_2\Desktop\Лаб. работа №5\ex5.3\ex5.3\bin\Debug\ex5.3.exe.config
+C:\Users\Fence_2\Desktop\Лаб. работа №5\ex5.3\ex5.3\obj\Debug\ex5.3.exe
+C:\Users\Fence_2\Desktop\Лаб. работа №5\ex5.3\ex5.3\obj\Debug\ex5.3.pdb
+C:\Users\Fence_2\Desktop\Лаб. работа №5\ex5.3\ex5.3\bin\Debug\ex5.3.exe
+C:\Users\Fence_2\Desktop\Лаб. работа №5\ex5.3\ex5.3\bin\Debug\ex5.3.pdb
+C:\Users\Fence_2\Desktop\Лаб. работа №5\ex5.3\ex5.3\obj\Debug\ex5._3.Form1.resources
+C:\Users\Fence_2\Desktop\Лаб. работа №5\ex5.3\ex5.3\obj\Debug\ex5._3.Properties.Resources.resources
+C:\Users\Fence_2\Desktop\Лаб. работа №5\ex5.3\ex5.3\obj\Debug\ex5.3.csproj.GenerateResource.Cache
